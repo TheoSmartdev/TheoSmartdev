@@ -11,8 +11,7 @@
 ###
 
 <div align="center">
-  <img width="180" src="https://media1.tenor.com/images/94fe41ac3a9b24e7097c92ed917a2fe5/tenor.gif?itemid=10131450" alt="Rajjit Laishram waving gif">
-  <h1 style="margin: 0;">Hi, I'm Rajjit Laishram 👋🏻</h1>
+  <h1 style="margin: 0;">Hi, I'm Edgar Zhao 👋🏻</h1>
 </div>
 
 # 💫 About Me :
